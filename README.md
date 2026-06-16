@@ -80,6 +80,3 @@ CAN_AUTOMATIVE_DASHBOARD/
 - Configured the PIC18F4580 CAN module at register level, setting acceptance filters and masks so each node received only its designated message IDs, eliminating spurious message processing.
 - Interfaced a character LCD for real-time dashboard display, managing refresh timing via hardware timers to prevent flickering under continuous data updates.
 
-## Demo / Output
-
-*Add a photo or video of the three boards running together, with the LCDs showing live synchronized dashboard values.*
